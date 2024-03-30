@@ -13,3 +13,7 @@ Vite: Versión 4.4.5
 ESLint: Versión 8.45.0
 Tailwind CSS: Versión 3.3.3
 Este proyecto está configurado para una fácil instalación y desarrollo con Vite y cuenta con herramientas de linting para garantizar la calidad del código.
+
+![Captura de Pantalla](https://github.com/bytesjotaeme/Cloen-enReact/blob/main/preview1.PNG)
+![Captura de Pantalla](https://github.com/bytesjotaeme/Cloen-enReact/blob/main/preview2.PNG)
+
